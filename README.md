@@ -1,73 +1,127 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jeffaugg/count.svg?"  />
+
+```
+╔══════════════════════════════════════════════════════╗
+║  jeffaugg@portfolio:~$ whoami                        ║
+║                                                      ║
+║  Jeferson Augusto · Full-Stack Developer             ║
+║  UFC Quixadá · Engenharia de Software (2026)         ║
+║  Node.js · NestJS · React · Python                   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffaugg/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jefersonaugusto@alu.ufc.br)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/UCx9RZRv)
+
 </div>
 
-###
+---
 
-<table>
-  <tr>
-    <td>
-      <p align="left">Hello World! 👋<br>Meu nome é Jeferson, mas você pode me chamar de Augusto 😀<br><br>🎓 Tenho 19 anos, sou de Teresina-PI e atualmente estudo na Universidade Federal do Ceará, campus Quixadá.<br>💻 Sou apaixonado por programação, focado principalmente no desenvolvimento back-end com Node.js.<br>📚 Estudo programação desde 2023 e estou sempre em busca de novos desafios e aprendizados.<br><br>Mais sobre mim:<br>🎮 Além de codar, adoro jogar games e acompanhar esportes.<br>🚀 Meu objetivo é me tornar um desenvolvedor back-end de alta performance e contribuir com projetos open-source.<br>Fique à vontade para explorar meus repositórios e acompanhar minha jornada! 🌟</p>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" alt="Imagem do cachorro" style="max-width: 150px; margin-left: 20px;" />
-    </td>
-  </tr>
-</table>
+```bash
+jeffaugg@portfolio:~$ cat stack.txt
+```
 
-### 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![BotPress](https://img.shields.io/badge/Botpress-1F2937?style=flat-square&logo=botpress&logoColor=white)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jeferson-augusto-41a349294/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/UCx9RZRv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@Jeff-ci5mg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="youtube logo"  />
-  </a>
-  <a href="mailto:jefersonaugusto@alu.ufc.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-### 
+```bash
+jeffaugg@portfolio:~$ cat experience.log
+```
 
+```
+[04/2025 → present]  Eteg          · Full-Stack Dev    · NestJS · React · Zendesk · Botpress
+[04/2025 → 08/2025]  BeTalent      · Backend Dev Jr    · Fastify · AdonisJS · NestJS · Hono
+[01/2025 → present]  OBenf         · Frontend Dev      · Next.js
+[04/2025 → 01/2026]  LIAS/FioCruz  · Data Engineer     · Python · Polars · FastAPI · ETL
+[01/2025 → 04/2025]  Meerkat       · Backend & Automat · Python · N8N · BotPress
+[10/2024 → 02/2025]  HDC/FioCruz   · Backend Dev       · Fastify · Prisma · PostgreSQL
+[05/2024 → 12/2024]  REDIUX/UFC    · Backend Dev       · Express · TypeORM · PostgreSQL
+```
 
+---
 
+```bash
+jeffaugg@portfolio:~$ cat ./pet/qa-engineer.txt
+```
+
+```
+++++mm@@########                          @@MM@@##--        
+mm++mmMM@@########                      ####@@@@mm          
+@@mmmmmm@@############@@              ######@@MMMM          
+@@@@++::MM##############MM++mm++::MM######@@@@mm##          
+  @@MM++++@@##########@@####@@MMmm####@@MM@@MMMM##          
+  ####@@mm@@@@################@@@@MM####MMMM@@##            
+  @@####MM########################@@########@@##            
+  ++##############################@@############            
+    ############@@##++MM############@@##########            
+    ##########MM    mm@@::################mm--mm..          
+      mm@@######....##@@..MMmm@@##@@######..##..##          
+    ..mmMM########....::..##--####MM######--##..MM          
+      MM##@@##########--MM++mm############@@--::##++        
+      ++####@@@@##################################--        
+      @@@@####@@############################@@####          
+      mmMM##########################@@MM##########          
+      --@@##################################@@##@@          
+        @@@@####################################..          
+        mm######################################++          
+          ######################################--          
+          ..######@@############################            
+              ######@@########################              
+              ##############################                
+              --##########################mm                
+              --##########################MMmm              
+                ########################MM@@@@              
+                ######################mmMM####              
+              ++######mm########@@######::####@@            
+            ::##@@##########@@####@@############            
+              ++##mm######MM########..##########--          
+              --@@##::##::::######::##############--        
+            --####@@++####..##mm##::################..      
+            @@@@--####################################      
+            MM##########################################    
+              @@########################################    
+              @@##########################################  
+              ##############################################
+              MM############################################
+              ++############################################
+                ############################################
+
+  > nome    : Antonio
+  > cargo   : Senior Chair Occupier
+  > stack   : purring.exe · staring.bat
+  > reviews : blocks every PR without prior approval
+```
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeffaugg&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-<img src="https://streak-stats.demolab.com?user=jeffaugg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeffaugg&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeffaugg&show_icons=true&theme=transparent&hide_border=true&title_color=a9b1d6&text_color=a9b1d6&icon_color=7aa2f7&bg_color=00000000" height="145" />
+<img src="https://streak-stats.demolab.com?user=jeffaugg&locale=en&mode=daily&theme=transparent&hide_border=true&ring=7aa2f7&fire=7aa2f7&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=565f89" height="145" />
+
 </div>
 
-
-
-###
-
+---
 
 <div align="center">
-  <img height="400" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MzY5NDksIm5iZiI6MTcyMzczNjY0OSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDE1NDQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0NjhjZDUwYmE5OTZjYWYyZDMxODdiODlkMWUxODcyNmU2MmYxYjRjZjY1NzVhMmNkOWQ0MDczYmY0NDFmMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5TEqDlCrJU7QENsSTP9M1eJYDGJgOLMDoUfbqhD7BXk"  />
+<sub>português (nativo) · english (intermediate) · cat (fluent)</sub>
 </div>
-
-###
